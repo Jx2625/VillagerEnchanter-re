@@ -1,9 +1,0 @@
-# Default: 16
-# Range: 1 ~ 64
-bookPrice = 16
-# Default: 4
-# Range: > 1
-bookTradeCount = 4
-# Default: 0.2
-# Range: 0.0 ~ 1.0
-bookRefreshChance = 0.3

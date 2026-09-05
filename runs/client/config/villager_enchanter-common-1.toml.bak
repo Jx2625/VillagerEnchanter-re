@@ -1,8 +1,0 @@
-#附魔刷新书的绿宝石价格
-# Default: 16
-# Range: 1 ~ 64
-bookPrice = 16
-#附魔刷新书的最大交易次数
-# Default: 4
-# Range: > 1
-bookTradeCount = 4
