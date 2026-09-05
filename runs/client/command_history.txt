@@ -1,0 +1,31 @@
+/summon minecraft:villager ~ ~ ~ {VillagerData:{profession:"villager_enchanter:enchanter",level:5}}
+/summon minecraft:villager ~ ~ ~ {VillagerData:{profession:"villager_enchanter:enchanter",level:1}}
+/summon minecraft:villager ~ ~ ~ {VillagerData:{profession:"villager_enchanter:enchanter",level:5}}
+/kill @a
+/summon minecraft:villager ~ ~ ~ {VillagerData:{profession:"villager_enchanter:enchanter",level:5}}
+/kill @a
+/kill
+/kill @e
+/summon minecraft:villager ~ ~ ~ {VillagerData:{profession:"villager_enchanter:enchanter",level:5}}
+/kill @e
+/summon minecraft:villager ~ ~ ~ {VillagerData:{profession:"villager_enchanter:enchanter",level:5}}
+/kill @e
+/summon minecraft:villager ~ ~ ~ {VillagerData:{profession:"villager_enchanter:enchanter",level:5}}
+/time set day
+/summon minecraft:villager ~ ~ ~ {VillagerData:{profession:"villager_enchanter:enchanter",level:5}}
+/kill @e
+/summon minecraft:villager ~ ~ ~ {VillagerData:{profession:"villager_enchanter:enchanter",level:5}}
+/data merge entity @e[type=minecraft:villager,limit=1,sort=nearest] {Offers:{}}
+/data get entity @e[type=minecraft:villager,limit=1,sort=nearest]
+/weather clear
+/time set day
+/summon minecraft:villager ~ ~ ~ {VillagerData:{profession:"villager_enchanter:enchanter",level:5}}
+/time set day
+/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Offers
+/summon minecraft:villager ~ ~ ~ {VillagerData:{profession:"villager_enchanter:enchanter",level:5}}
+/time set noon
+/summon minecraft:villager ~ ~ ~ {VillagerData:{profession:"villager_enchanter:enchanter",level:5}}
+/summon minecraft:villager ~ ~ ~ {VillagerData:{profession:"villager_enchanter:enchanter",level:1}}
+/summon minecraft:villager ~ ~ ~ {VillagerData:{profession:"villager_enchanter:enchanter",level:5}}
+/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Offers
+/time set noon

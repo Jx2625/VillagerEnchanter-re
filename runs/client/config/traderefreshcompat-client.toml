@@ -1,0 +1,3 @@
+#在客户端显示聊天消息，提示刷新被拦截的原因。
+#仅影响本地显示，不影响服务器逻辑。
+showRefreshBlockedMessage = true

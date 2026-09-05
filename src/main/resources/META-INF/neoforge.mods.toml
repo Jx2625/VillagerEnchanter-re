@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+
+# Access Transformer
+accessTransformer="META-INF/accesstransformer.cfg"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+description='''Villager Enchanter - 添加附魔师村民职业和附魔刷新书'''
+
+[[dependencies.${mod_id}]]
+modId="neoforge"
+mandatory=true
+versionRange="${neo_version}"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.${mod_id}]]
+modId="minecraft"
+mandatory=true
+versionRange="${minecraft_version_range}"
+ordering="NONE"
+side="BOTH"
+
+[[mixins]]
+config = "${mod_id}.mixins.json"

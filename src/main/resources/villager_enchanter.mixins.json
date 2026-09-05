@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.muyu.villager_enchanter.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "villager_enchanter.refmap.json",
+  "mixins": [
+    "VillagerMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "item.villager_enchanter.enchant_refresh_book": "Enchant Refresh Book",
+  "entity.minecraft.villager.villager_enchanter.enchanter": "Enchanter",
+  "villager_enchanter.subtitle.enchant_refresh": "Enchant Refresh",
+
+  "villager_enchanter.config.title": "Enchanter Config",
+  "villager_enchanter.config.bookPrice": "Enchant Refresh Book Price",
+  "villager_enchanter.config.bookPrice.tooltip": "The price of Enchant Refresh Book in emeralds",
+  "villager_enchanter.config.bookTradeCount": "Enchant Refresh Book Trade Count",
+  "villager_enchanter.config.bookTradeCount.tooltip": "The maximum number of transactions for the Enchant Refresh Book",
+  "villager_enchanter.config.bookRefreshChance": "Enchant Refresh Book Chance",
+  "villager_enchanter.config.bookRefreshChance.tooltip": "Chance for Enchant Refresh Book to appear in level 5 Enchanter trades (0.0 ~ 1.0)",
+
+  "villager_enchanter.trade.enchant_book": "Enchanted Book",
+  "villager_enchanter.trade.refresh_book": "Enchant Refresh Book",
+  "villager_enchanter.trade.lapis_to_emerald": "Lapis to Emerald",
+
+  "villager_enchanter.jei.category.enchant_refresh": "Enchant Refresh",
+  "villager_enchanter.jei.description.enchant_refresh": "Use Enchant Refresh Book on a villager to refresh its enchanted book trades"
+}
