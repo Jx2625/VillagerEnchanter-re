@@ -4,17 +4,27 @@
   "villager_enchanter.subtitle.enchant_refresh": "附魔刷新",
 
   "villager_enchanter.config.title": "附魔师配置",
-  "villager_enchanter.config.bookPrice": "附魔刷新书价格",
-  "villager_enchanter.config.bookPrice.tooltip": "附魔刷新书的绿宝石价格",
+  "villager_enchanter.config.bookPrice": "附魔刷新书价格（附魔师）",
+  "villager_enchanter.config.bookPrice.tooltip": "附魔师出售附魔刷新书的绿宝石价格",
   "villager_enchanter.config.bookTradeCount": "附魔刷新书交易次数",
   "villager_enchanter.config.bookTradeCount.tooltip": "附魔刷新书的最大交易次数",
-  "villager_enchanter.config.bookRefreshChance": "附魔刷新书出现概率",
+  "villager_enchanter.config.bookRefreshChance": "附魔刷新书出现概率（附魔师）",
   "villager_enchanter.config.bookRefreshChance.tooltip": "5级附魔师出现附魔刷新书的概率 (0.0 ~ 1.0)",
+
+  "villager_enchanter.config.librarianBookPrice": "附魔刷新书价格（图书管理员）",
+  "villager_enchanter.config.librarianBookPrice.tooltip": "图书管理员出售附魔刷新书的绿宝石价格",
+  "villager_enchanter.config.librarianRefreshChance": "附魔刷新书出现概率（图书管理员）",
+  "villager_enchanter.config.librarianRefreshChance.tooltip": "5级图书管理员出现附魔刷新书的概率 (0.0 ~ 1.0)",
 
   "villager_enchanter.trade.enchant_book": "附魔书",
   "villager_enchanter.trade.refresh_book": "附魔刷新书",
   "villager_enchanter.trade.lapis_to_emerald": "青金石换绿宝石",
 
   "villager_enchanter.jei.category.enchant_refresh": "附魔刷新",
-  "villager_enchanter.jei.description.enchant_refresh": "对村民使用附魔刷新书可以刷新其附魔书交易"
+  "villager_enchanter.jei.description.enchant_refresh": "对村民使用附魔刷新书可以刷新其附魔书交易",
+
+  "message.villager_enchanter.no_enchantments": "§c没有可用的附魔！",
+  "message.villager_enchanter.no_enchant_trades": "§c这个村民没有附魔书交易！",
+  "message.villager_enchanter.refresh_progress": "§a刷新附魔书交易中... (%d/%d)",
+  "message.villager_enchanter.refresh_complete": "§6已刷新所有附魔书交易！(%d个)"
 }

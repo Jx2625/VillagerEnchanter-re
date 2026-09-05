@@ -4,17 +4,27 @@
   "villager_enchanter.subtitle.enchant_refresh": "Enchant Refresh",
 
   "villager_enchanter.config.title": "Enchanter Config",
-  "villager_enchanter.config.bookPrice": "Enchant Refresh Book Price",
-  "villager_enchanter.config.bookPrice.tooltip": "The price of Enchant Refresh Book in emeralds",
+  "villager_enchanter.config.bookPrice": "Enchant Refresh Book Price (Enchanter)",
+  "villager_enchanter.config.bookPrice.tooltip": "Price of Enchant Refresh Book from Enchanter in emeralds",
   "villager_enchanter.config.bookTradeCount": "Enchant Refresh Book Trade Count",
-  "villager_enchanter.config.bookTradeCount.tooltip": "The maximum number of transactions for the Enchant Refresh Book",
-  "villager_enchanter.config.bookRefreshChance": "Enchant Refresh Book Chance",
-  "villager_enchanter.config.bookRefreshChance.tooltip": "Chance for Enchant Refresh Book to appear in level 5 Enchanter trades (0.0 ~ 1.0)",
+  "villager_enchanter.config.bookTradeCount.tooltip": "Maximum number of transactions for the Enchant Refresh Book",
+  "villager_enchanter.config.bookRefreshChance": "Enchant Refresh Book Chance (Enchanter)",
+  "villager_enchanter.config.bookRefreshChance.tooltip": "Chance for Enchant Refresh Book in level 5 Enchanter trades (0.0 ~ 1.0)",
+
+  "villager_enchanter.config.librarianBookPrice": "Enchant Refresh Book Price (Librarian)",
+  "villager_enchanter.config.librarianBookPrice.tooltip": "Price of Enchant Refresh Book from Librarian in emeralds",
+  "villager_enchanter.config.librarianRefreshChance": "Enchant Refresh Book Chance (Librarian)",
+  "villager_enchanter.config.librarianRefreshChance.tooltip": "Chance for Enchant Refresh Book in level 5 Librarian trades (0.0 ~ 1.0)",
 
   "villager_enchanter.trade.enchant_book": "Enchanted Book",
   "villager_enchanter.trade.refresh_book": "Enchant Refresh Book",
   "villager_enchanter.trade.lapis_to_emerald": "Lapis to Emerald",
 
   "villager_enchanter.jei.category.enchant_refresh": "Enchant Refresh",
-  "villager_enchanter.jei.description.enchant_refresh": "Use Enchant Refresh Book on a villager to refresh its enchanted book trades"
+  "villager_enchanter.jei.description.enchant_refresh": "Use Enchant Refresh Book on a villager to refresh its enchanted book trades",
+
+  "message.villager_enchanter.no_enchantments": "§cNo enchantments available!",
+  "message.villager_enchanter.no_enchant_trades": "§cThis villager has no enchanted book trades!",
+  "message.villager_enchanter.refresh_progress": "§aRefreshing enchanted book trades... (%d/%d)",
+  "message.villager_enchanter.refresh_complete": "§6All enchanted book trades refreshed! (%d)"
 }
